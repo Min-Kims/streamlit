@@ -4,6 +4,7 @@ openai
 loguru
 docx2txt
 streamlit
+streamlit_feedback
 langsmith
 langchain_openai
 langchain_core
