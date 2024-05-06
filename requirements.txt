@@ -1,0 +1,9 @@
+langchain
+langsmith
+openai
+loguru
+docx2txt
+time
+os
+streamlit
+langsmith
