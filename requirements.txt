@@ -5,3 +5,5 @@ loguru
 docx2txt
 streamlit
 langsmith
+langchain_openai
+langchain_core
