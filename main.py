@@ -8,7 +8,7 @@ from langchain.callbacks.base import BaseCallbackHandler
 from langchain.schema import ChatMessage
 from langchain_openai import ChatOpenAI
 from langsmith import Client
-#import streamlit as st
+import streamlit as st
 #from streamlit_feedback import streamlit_feedback
 import time
 import os
